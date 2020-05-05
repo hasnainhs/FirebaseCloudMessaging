@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseMessaging</string>
+    <string name="score_label">Score:</string>
+    <string name="overs_label">Overs:</string>
+    <string name="target_label">Target:</string>
+    <string name="subscribe_topic_text">SUBSCRIBE TOPIC</string>
+    <string name="unsubscribe_topic_text">UNSUBSCRIBE TOPIC</string>
+</resources>
